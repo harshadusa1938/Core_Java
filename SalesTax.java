@@ -2,7 +2,7 @@ package com.firstsem;
 /*
 *  HW#7 Java Assignment 2
 * 8. Sales Tax 
-* Mohammed Alhokbani
+*Harshad Patel
 *
 * 10/27/2014
  */
